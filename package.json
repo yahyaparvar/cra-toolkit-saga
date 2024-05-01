@@ -1,5 +1,5 @@
 {
-  "name": "toolkit-saga",
+  "name": "cra-template-toolkit-saga-starter",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -12,10 +12,6 @@
     "theme"
   ],
   "description": "Multi-lang & theme added to React Along with an optimized redux approach",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yahyaparvar/toolkit-saga.git"
-  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
